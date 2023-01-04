@@ -1,0 +1,1 @@
+"""Ten pakiet zawiera modułu pomagajace w tworzeniu modelu regresji liniowej."""
