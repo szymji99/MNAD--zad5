@@ -1,3 +1,4 @@
+"Moduł, który mnoży macierze."
 import numpy as np
 def my_dot(a,b):
     """Moduł mający na celu wymnożyć dwie macierze podane w postaci argumentów"""
